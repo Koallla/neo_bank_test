@@ -1,1 +1,1 @@
-RUN MainTest
+RUN src/test/java/neobank/tests/MainPageTest
