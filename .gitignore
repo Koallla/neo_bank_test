@@ -1,0 +1,23 @@
+/httpRequests/
+.allure/
+.allure-results/
+
+/data
+target/
+*.iml
+.idea/
+*.ipr
+*.iws
+*.txt
+/out/
+*.class
+*.war
+*.ear
+.classpath
+.project
+.settings/
+
+/asd.png
+/Report chart.png
+/picture.png
+/allure-report/
